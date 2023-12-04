@@ -11,9 +11,9 @@ title                    : "Xuguang Ai"
 title_separator          : "-"
 name                     : &name "Xuguang Ai"
 description              : &description "personal description"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"xuguangai.github.io"
+url                      : https://xuguangai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xuguang Ai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research scientist at University of Kentucky"
   location         : "Lexington, KY, US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/XuguangAi"
+  github           : "XuguangAi"
   google_plus      :
   keybase          :
   instagram        :
