@@ -12,4 +12,4 @@ I work with [Dr. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru
 
 News
 ======
-04/2023: Check our paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies]([https://www.engr.uky.edu/directory/kavuluru-ramakanth](https://arxiv.org/abs/2304.01344)).
+04/2023: Check our paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://arxiv.org/abs/2304.01344).
