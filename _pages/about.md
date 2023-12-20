@@ -13,7 +13,7 @@ redirect_from:
 News
 ======
 
-**12/2023**: The paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies] we presented at the 2023 IEEE ICHI is now available online.(https://ieeexplore.ieee.org/document/10337159)
+**12/2023**: The paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://ieeexplore.ieee.org/document/10337159) we presented at the 2023 IEEE ICHI is now available online.
 
 **11/2023**: [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729).
 
