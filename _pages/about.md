@@ -17,4 +17,4 @@ News
 
 **11/2023**: We submitted our manuscript [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729) to Journal of Biomedical Informatics. It's also available on arXiv.
 
-**06/2023**: Our paper [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072) was accepted by JMIR Medical Informatics.
+**06/2023**: Our paper [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072) was accepted by JMIR Medical Informatics!
