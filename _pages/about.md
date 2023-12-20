@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I work with [Dr. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth).
+    I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Dr. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). I'm always open to connections and discussions so please don't hesitate to get in touch!
 
 News
 ======
 
-11/2023: [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729).
+**11/2023**: [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729).
 
-06/2023: [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072).
+**06/2023**: [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072).
 
-04/2023: [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://arxiv.org/abs/2304.01344).
+**04/2023**: [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://arxiv.org/abs/2304.01344).
