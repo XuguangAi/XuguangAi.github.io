@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Dr. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). I'm always open to connections and discussions so please don't hesitate to get in touch!<\p>
+<p>I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Dr. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). I'm always open to connections and discussions so please don't hesitate to get in touch!</p>
 
 News
 ======
