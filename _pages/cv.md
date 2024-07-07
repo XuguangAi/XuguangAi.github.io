@@ -16,8 +16,11 @@ Education
 
 Work experience
 ======
+* **Data Scientist, Department of Biomedical Informatics & Data Science, Yale University**
+  * Jan 2024 – Present
+
 * **Research Assistant, Department of Computer Science, University of Kentucky**
-  * August 2021 – Present
+  * August 2021 – Jan 2024
   * Designed and implemented an end-to-end relation extraction model for extracting chemical-protein interactions from biomedical literature. Achieved a state-of-the-art F1 score, marking a >4% improvement over prior deep learning models on a benchmark biomedical dataset (ChemProt).
   * Designed an end-to-end relation extraction deep learning model for rare diseases from medical texts, with the ability to handle discontinuous entities. Additionally, conducted comparative experiments using generative models such as BioGPT against traditional BERT-like approaches.
 
