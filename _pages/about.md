@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Prof. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). Currently, I am a Data Scientist at the Biomedical Informatics & Data Science department at Yale University. I'm always open to connections and discussions so please don't hesitate to get in touch!
+My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Prof. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). Currently, I am a Data Scientist at the [Biomedical Informatics & Data Science](https://medicine.yale.edu/biomedical-informatics-data-science/) department at Yale University. I'm always open to connections and discussions so please don't hesitate to get in touch!
 
 News
 ======
+
+**05/2024** Our team secured 2nd place in the [BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation](https://physionet.org/content/discharge-me/1.3/)!
 
 **12/2023**: The paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://ieeexplore.ieee.org/document/10337159) we presented at the 2023 IEEE ICHI is now available online.
 
