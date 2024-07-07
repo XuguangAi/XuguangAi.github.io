@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Xuguang Ai(艾旭光). I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Prof. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). I'm always open to connections and discussions so please don't hesitate to get in touch!
+My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in healthcare. I earned my MS degree in Data Science from University of Kentucky, where I also had the opportunity to work as a Research Assistant under the mentorship of [Prof. Ramakanth Kavuluru](https://www.engr.uky.edu/directory/kavuluru-ramakanth). Currently, I am a Data Scientist at the Biomedical Informatics & Data Science department at Yale University. I'm always open to connections and discussions so please don't hesitate to get in touch!
 
 News
 ======
