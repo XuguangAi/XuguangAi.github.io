@@ -13,8 +13,6 @@ My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in hea
 News
 ======
 
-**10/2023**: [Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model](https://arxiv.org/abs/2410.03740) is available on arXiv.
-
 **10/2023**: [Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology](https://arxiv.org/abs/2409.13902) is available on arXiv.
 
 **08/2024** [Yale at “Discharge Me!”: Evaluating Constrained Generation of Discharge Summaries with Unstructured and Structured Information](https://aclanthology.org/2024.bionlp-1.64/). Discharge Me: BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation.
