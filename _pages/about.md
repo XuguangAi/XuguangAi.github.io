@@ -13,10 +13,16 @@ My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in hea
 News
 ======
 
+**10/2023**: [Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model](https://arxiv.org/abs/2410.03740) is available on arXiv.
+
+**10/2023**: [Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology](https://arxiv.org/abs/2409.13902) is available on arXiv.
+
+**08/2024** [Yale at “Discharge Me!”: Evaluating Constrained Generation of Discharge Summaries with Unstructured and Structured Information](https://aclanthology.org/2024.bionlp-1.64/). Discharge Me: BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation.
+
 **05/2024** Our team secured 2nd place in the [BioNLP ACL'24 Shared Task on Streamlining Discharge Documentation](https://physionet.org/content/discharge-me/1.3/)!
 
-**12/2023**: The paper [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://ieeexplore.ieee.org/document/10337159) we presented at the 2023 IEEE ICHI is now available online.
+**12/2023**: [End-to-End Models for Chemical-Protein Interaction Extraction: Better Tokenization and Span-Based Pipeline Strategies](https://ieeexplore.ieee.org/document/10337159). 2023 IEEE ICHI.
 
-**11/2023**: Our paper [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729) is available on arXiv.
+**11/2023**: [Comparison of pipeline, sequence-to-sequence, and GPT models for end-to-end relation extraction: experiments with the rare disease use-case](https://arxiv.org/abs/2311.13729) is available on arXiv.
 
-**06/2023**: Our paper [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072) was accepted by JMIR Medical Informatics!
+**06/2023**: [Acquisition of a Lexicon for Family History Information: Bidirectional Encoder Representations From Transformers–Assisted Sublanguage Analysis](https://medinform.jmir.org/2023/1/e48072). JMIR Medical Informatics.
