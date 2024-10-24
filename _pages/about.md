@@ -13,6 +13,8 @@ My name is Xuguang Ai. I have a deep passion for NLP & CV and applying AI in hea
 News
 ======
 
+**10/2023**: Our [Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model](https://aao.apprisor.org/apsSession.cfm?id=PO419) will be featured in the poster section at AAO 2024, the American Academy of Ophthalmology’s annual meeting in Chicago.
+
 **10/2023**: [Language Enhanced Model for Eye (LEME): An Open-Source Ophthalmology-Specific Large Language Model](https://arxiv.org/abs/2410.03740) is available on arXiv.
 
 **10/2023**: [Enhancing Large Language Models with Domain-specific Retrieval Augment Generation: A Case Study on Long-form Consumer Health Question Answering in Ophthalmology](https://arxiv.org/abs/2409.13902) is available on arXiv.
